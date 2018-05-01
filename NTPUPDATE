@@ -1,0 +1,2 @@
+ntpdate -s time.nist.gov
+date
